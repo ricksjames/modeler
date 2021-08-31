@@ -6,7 +6,6 @@
 
   <inherits name='org.pentaho.ui.Xul'/>
   <inherits name='org.pentaho.ui.xul.Gwt'/>
-  <inherits name='com.googlecode.gwtx.Java'/>
 
   <inherits name='org.pentaho.gwt.widgets.Widgets'/>
 
