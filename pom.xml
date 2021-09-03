@@ -126,27 +126,22 @@
     <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-incubator</artifactId>
-      <version>${dependency.gwt-incubator.revision}</version>
     </dependency>
     <dependency>
       <groupId>com.allen-sauer.gwt.dnd</groupId>
       <artifactId>gwt-dnd</artifactId>
-      <version>${dependency.gwt-dnd.revision}</version>
     </dependency>
     <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-user</artifactId>
-      <version>${dependency.gwt.revision}</version>
     </dependency>
     <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-dev</artifactId>
-      <version>${dependency.gwt.revision}</version>
     </dependency>
     <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-servlet</artifactId>
-      <version>${dependency.gwt.revision}</version>
     </dependency>
     <dependency>
       <groupId>org.pentaho</groupId>
